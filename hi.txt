@@ -1,5 +1,9 @@
 <<<<<<< hirak
+<<<<<<< hirak
 Hello Hirak!
+=======
+Hello Hirak
+>>>>>>> local
 =======
 Hello Hirak
 >>>>>>> local
